@@ -51,17 +51,18 @@ The screenshots below shows answers to the exploratory questions above
 
 ![Screenshot (28)](https://github.com/user-attachments/assets/6ad42426-b9ac-43b0-9e1b-09cbdf5733b6)
 
+Most of the revenue is coming from office supplies and the marketing of this category should be increased  
 
 
 
 ![Screenshot (27)](https://github.com/user-attachments/assets/88fd274d-257c-4130-abba-b42fc4098720)
 
-
+Marketing campaigns and sales team should be focused on the high performing regions while the low performing regions should be looked into to check what is responsible for their performance  
 
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/7d4ee6aa-afee-4ff8-b2e2-d509d705cce3)
 
-
+Run targeted promotions in Ontario and improve distributions and partnership 
 
 
 ![Screenshot (25)](https://github.com/user-attachments/assets/cbe7458f-e671-4ddd-9f4a-ee87da8b7668)
