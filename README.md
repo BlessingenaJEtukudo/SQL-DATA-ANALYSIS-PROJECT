@@ -2,6 +2,17 @@
 
 
 
+##PROJECT OVERVIEW 
+
+The goal of this project is to present  key insights and findings to support the Kultra Mega Stores(KMS) Abuja division in making business decisions  
+
+
+##DATA SOURCE 
+
+The Primary source of Data I used for this analysis is csv files shared on my LMS by DSA Incubator hub.
+
+
+
 
 
 
