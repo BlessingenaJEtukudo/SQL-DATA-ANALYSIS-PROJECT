@@ -59,6 +59,10 @@ Here is a representation of the Top 3 and Bottom 3 regions in terms of sales?
 
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/7d4ee6aa-afee-4ff8-b2e2-d509d705cce3)
+
+This shows the total sales of appliances in Ontario 
+
+
 ![Screenshot (25)](https://github.com/user-attachments/assets/cbe7458f-e671-4ddd-9f4a-ee87da8b7668)
 ![Screenshot (24)](https://github.com/user-attachments/assets/6e5f7323-2c5f-4a71-bca4-6a17cf6a8597)
 ![Screenshot (23)](https://github.com/user-attachments/assets/8f2152ab-23bd-4ff0-b979-b2ad36076865)
