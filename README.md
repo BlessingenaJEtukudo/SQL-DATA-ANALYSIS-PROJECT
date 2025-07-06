@@ -27,6 +27,7 @@ Case Scenario I
 5. KMS incurred the most shipping cost using which shipping method?
 
 Case Scenario II
+
 6. Who are the most valuable customers, and what products or services do they typically
 purchase?
 7. Which small business customer had the highest sales?
