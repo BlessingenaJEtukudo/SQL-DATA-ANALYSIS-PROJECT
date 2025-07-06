@@ -41,6 +41,8 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 
 ##VISUAL INSIGHTS AND RESULTS 
 
+The screenshots below shows answers to the exploratory questions above
+
 
 
 
