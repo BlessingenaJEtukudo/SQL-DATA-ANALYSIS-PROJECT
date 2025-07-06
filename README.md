@@ -122,3 +122,11 @@ Analyze what products they buy and promote similar items.
 Track return reasons and improve product descriptions or logistics.
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/c0890b7d-beef-4481-84c4-e8f8f92b4995)
+
+If Express Air was heavily used for Low-priority orders → shipping cost is being misused.
+
+If Delivery Truck is used mostly for Low-priority orders → shipping is efficient.
+
+Implement shipping rules in the system that enforce appropriate methods based on order priority.
+
+Train staff or automate shipping selections to reduce unnecessary cost.
