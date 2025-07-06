@@ -55,9 +55,13 @@ Most of the revenue is coming from office supplies and the marketing of this cat
 
 
 
+
+
 ![Screenshot (27)](https://github.com/user-attachments/assets/88fd274d-257c-4130-abba-b42fc4098720)
 
 Marketing campaigns and sales team should be focused on the high performing regions while the low performing regions should be looked into to check what is responsible for their performance  
+
+
 
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/7d4ee6aa-afee-4ff8-b2e2-d509d705cce3)
@@ -65,7 +69,15 @@ Marketing campaigns and sales team should be focused on the high performing regi
 Run targeted promotions in Ontario and improve distributions and partnership 
 
 
+
+
 ![Screenshot (25)](https://github.com/user-attachments/assets/cbe7458f-e671-4ddd-9f4a-ee87da8b7668)
+
+Run surveys to understand the needs and why some customers are not satisfied and offer incentives to increase their purchase frequency  
+
+
+
+
 ![Screenshot (24)](https://github.com/user-attachments/assets/6e5f7323-2c5f-4a71-bca4-6a17cf6a8597)
 ![Screenshot (23)](https://github.com/user-attachments/assets/8f2152ab-23bd-4ff0-b979-b2ad36076865)
 ![Screenshot (22)](https://github.com/user-attachments/assets/dba8ebda-d587-43a9-b52c-bcd3821199f6)
