@@ -79,10 +79,48 @@ Run surveys to understand the needs and why some customers are not satisfied and
 
 
 ![Screenshot (24)](https://github.com/user-attachments/assets/6e5f7323-2c5f-4a71-bca4-6a17cf6a8597)
+
+Audit the shipping costs and negotiate the shipping rates
+
+
+
+
 ![Screenshot (23)](https://github.com/user-attachments/assets/8f2152ab-23bd-4ff0-b979-b2ad36076865)
+
+Offer exclusive deals to these customers,promote and stock up on the products they love
+
+
+
+
 ![Screenshot (22)](https://github.com/user-attachments/assets/dba8ebda-d587-43a9-b52c-bcd3821199f6)
+
+Offer bulk discounts for small business customers 
+
+
+
+
 ![Screenshot (21)](https://github.com/user-attachments/assets/0b40c7b4-2970-4723-93fb-5bdede6ad9fb)
+
+Study what worked well during that time and replicate successful sales strategies.
+
+
+
+
 ![Screenshot (20)](https://github.com/user-attachments/assets/d4011d31-4369-46b2-a114-c566eb0a449d)
+
+Analyze what products they buy and promote similar items.
+
+
+
+
 ![Screenshot (19)](https://github.com/user-attachments/assets/39078707-4772-4e85-b4cf-da841b1ead06)
+
+Track return reasons and improve product descriptions or logistics.
+
+
+
+
 ![Screenshot (18)](https://github.com/user-attachments/assets/ed215793-41e2-47c4-88e0-34d516797888)
+
+
 ![Screenshot (17)](https://github.com/user-attachments/assets/c0890b7d-beef-4481-84c4-e8f8f92b4995)
