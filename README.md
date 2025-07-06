@@ -130,3 +130,13 @@ If Delivery Truck is used mostly for Low-priority orders → shipping is efficie
 Implement shipping rules in the system that enforce appropriate methods based on order priority.
 
 Train staff or automate shipping selections to reduce unnecessary cost.
+
+VISUALS: Screenshot preview of the SQL
+
+##AUTHOR
+
+Blessing Etukudo 
+
+Business Intelligence Analyst 
+
+
