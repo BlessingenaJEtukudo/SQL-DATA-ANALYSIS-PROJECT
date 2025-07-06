@@ -54,6 +54,10 @@ The screenshot above shows that Office supplies is the category with the highest
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/15ed0ffe-ae94-4f65-8954-31c756c2fd75)
 ![Screenshot (27)](https://github.com/user-attachments/assets/88fd274d-257c-4130-abba-b42fc4098720)
+
+Here is a representation of the Top 3 and Bottom 3 regions in terms of sales?
+
+
 ![Screenshot (26)](https://github.com/user-attachments/assets/7d4ee6aa-afee-4ff8-b2e2-d509d705cce3)
 ![Screenshot (25)](https://github.com/user-attachments/assets/cbe7458f-e671-4ddd-9f4a-ee87da8b7668)
 ![Screenshot (24)](https://github.com/user-attachments/assets/6e5f7323-2c5f-4a71-bca4-6a17cf6a8597)
