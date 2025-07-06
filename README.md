@@ -1,4 +1,4 @@
-⁸# SQL-DATA-ANALYSIS-PROJECT
+# SQL-DATA-ANALYSIS-PROJECT
 
 
 
@@ -49,7 +49,7 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 
 ![Screenshot (28)](https://github.com/user-attachments/assets/6ad42426-b9ac-43b0-9e1b-09cbdf5733b6)
 
-The screenshot above shows that
+The screenshot above shows that Office supplies is the category with the highest sales
 
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/15ed0ffe-ae94-4f65-8954-31c756c2fd75)
