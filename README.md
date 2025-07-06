@@ -49,18 +49,17 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 
 ![Screenshot (28)](https://github.com/user-attachments/assets/6ad42426-b9ac-43b0-9e1b-09cbdf5733b6)
 
-The screenshot above shows that Office supplies is the category with the highest sales
 
 
-![Screenshot (29)](https://github.com/user-attachments/assets/15ed0ffe-ae94-4f65-8954-31c756c2fd75)
+
 ![Screenshot (27)](https://github.com/user-attachments/assets/88fd274d-257c-4130-abba-b42fc4098720)
 
-Here is a representation of the Top 3 and Bottom 3 regions in terms of sales?
+
 
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/7d4ee6aa-afee-4ff8-b2e2-d509d705cce3)
 
-This shows the total sales of appliances in Ontario 
+
 
 
 ![Screenshot (25)](https://github.com/user-attachments/assets/cbe7458f-e671-4ddd-9f4a-ee87da8b7668)
