@@ -2,21 +2,21 @@
 
 
 
-##PROJECT OVERVIEW 
+## PROJECT OVERVIEW 
 
 The goal of this project is to present  key insights and findings to support the Kultra Mega Stores(KMS) Abuja division in making business decisions  
 
 
-##DATA SOURCE 
+## DATA SOURCE 
 
 The Primary source of Data I used for this analysis is csv files shared on my LMS by DSA Incubator hub.
 
 
-##TOOLS USED 
+## TOOLS USED 
 
 SQL
 
-##EXPLORATORY DATA ANALYSIS 
+## EXPLORATORY DATA ANALYSIS 
 
 Case Scenario I
 1. Which product category had the highest sales?
@@ -39,7 +39,7 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 
-##VISUAL INSIGHTS AND RESULTS 
+## VISUAL INSIGHTS AND RESULTS 
 
 The screenshots below shows answers to the exploratory questions above
 
@@ -131,9 +131,9 @@ Implement shipping rules in the system that enforce appropriate methods based on
 
 Train staff or automate shipping selections to reduce unnecessary cost.
 
-VISUALS: Screenshot preview of the SQL
+## VISUALS: Screenshot preview of the SQL
 
-##AUTHOR
+## AUTHOR
 
 Blessing Etukudo 
 
