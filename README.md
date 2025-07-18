@@ -131,7 +131,8 @@ Implement shipping rules in the system that enforce appropriate methods based on
 
 Train staff or automate shipping selections to reduce unnecessary cost.
 
-## VISUALS: Screenshot preview of the SQL
+## VISUALS: 
+Screenshot preview of the SQL
 
 ## AUTHOR
 
